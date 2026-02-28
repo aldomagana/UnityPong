@@ -1,12 +1,7 @@
-[Ll]ibrary/
-[Tt]emp/
-UserSettings/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-obj/
-.vscode/
-.DS_Store
+/Library/
+/Temp/
+/Builds/
+/Logs/
+/obj/
 *.csproj
 *.sln
-*.slnx
